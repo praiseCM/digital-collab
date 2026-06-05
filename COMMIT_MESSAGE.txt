@@ -1,0 +1,7 @@
+Initial release of supplementary analysis notebook for Network-Extended TPB manuscript
+
+- Add streamlined Jupyter Notebook for reproducing manuscript tables and figures
+- Read the latest English-translated dataset directly from Google Drive/Sheets
+- Reproduce respondent profile, measurement quality, correlations, regression, SEM, and mediation outputs
+- Include SEM df diagnostic showing why the manuscript model uses df = 17
+- Add README, requirements, citation metadata, and repository setup instructions
