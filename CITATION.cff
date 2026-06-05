@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this supplementary code, please cite the manuscript and this repository."
+title: "Supplementary code for A Network-Extended Theory of Planned Behavior for Digital Collaboration in Construction Project Management"
+authors:
+  - family-names: Nguyen
+    given-names: Tuan Duc
+  - family-names: Nguyen
+    given-names: Long D.
+year: 2026
+version: "1.0.0"
+repository-code: "https://github.com/lnguyen18/digital-collab"
+license: "NOASSERTION"
+keywords:
+  - Theory of Planned Behavior
+  - Social Network Support
+  - Digital Collaboration
+  - Construction Project Management
+  - Hierarchical Regression
+  - Structural Equation Modeling
+  - Mediation
