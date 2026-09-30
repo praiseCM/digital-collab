@@ -10,7 +10,8 @@ The notebook reproduces the main quantitative outputs reported in the manuscript
 
 |File|Description|
 |-|-|
-|`network\_extended\_tpb\_v01.ipynb`|Main Jupyter Notebook for reproducing the manuscript analysis.|
+|`network_extended_tpb_v02.ipynb` | Current notebook for the revised manuscript. Part A reproduces Tables 1–6 and Figures 1–2; Part B provides supplementary robustness and sensitivity analyses.|
+|`network_extended_tpb_v01.ipynb` | Archived notebook corresponding to the original manuscript submission.|
 |`requirements.txt`|Python package requirements for running the notebook locally.|
 |`.gitignore`|Excludes generated outputs, caches, and local environment files.|
 |`CITATION.cff`|Citation metadata for the supplementary code repository.|
