@@ -6,6 +6,8 @@ This repository contains the supplementary Python/Jupyter Notebook code for the 
 
 The notebook reproduces the main quantitative outputs reported in the manuscript, including respondent profile summaries, measurement reliability and validity checks, hierarchical regression models, mediation SEM results, bootstrap mediation effects, and manuscript figures.
 
+**Current version:** network_extended_tpb_v02.ipynb reproduces the revised manuscript analyses. Part A generates the six manuscript tables and two figures. Part B contains supplementary analyses conducted to assess construct overlap, shared variance, professional-role sensitivity, common-method concerns, and alternative mediation specifications.
+
 ## Repository contents
 
 |File|Description|
